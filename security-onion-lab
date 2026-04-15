@@ -4,10 +4,6 @@
 
 This project demonstrates how to simulate network attacks and detect them using Security Onion in a monitored laboratory environment.
 
-## Lab Architecture
-
-![Architecture](security onion architecture)
-
 Machines used in this laboratory:
 
 - Kali Linux : attacker machine
