@@ -6,7 +6,7 @@ This project demonstrates how to simulate network attacks and detect them using 
 
 ## Lab Architecture
 
-![Architecture](security-onion-soc-lab/architecture.png)
+![Architecture](architecture.png)
 
 Machines used in this laboratory:
 
